@@ -1,0 +1,209 @@
+{
+  "contact": {
+    "email": "trinetraconsultancy1@gmail.com",
+    "location": "Lucknow",
+    "linkedin": "https://www.linkedin.com/company/trinetra-consultancy/"
+  },
+  "services": [
+    {
+      "id": "business-intelligence",
+      "icon": "chart",
+      "name": "Business Intelligence & Data Analytics",
+      "shortName": "Business Intelligence",
+      "description": "Turn scattered business data into clear dashboards and decisions.",
+      "audience": "Businesses that have data spread across sheets and systems but no clear view of performance.",
+      "deliverables": [
+        "Interactive dashboard (Power BI, Excel or another suitable tool)",
+        "Agreed KPIs, filters and charts",
+        "Data cleaning and basic validation",
+        "Variance analysis against agreed targets",
+        "Identification of trends, unusual movements and performance gaps",
+        "Period-on-period performance comparisons",
+        "Concise management report (PDF or PPT)",
+        "Dashboard user guide and handover session"
+      ]
+    },
+    {
+      "id": "people-analytics",
+      "icon": "people",
+      "name": "HR Consulting & People Analytics",
+      "shortName": "People Analytics",
+      "description": "Understand your workforce and build smoother HR processes.",
+      "audience": "Growing teams facing hiring, onboarding or employee retention challenges.",
+      "deliverables": [
+        "Review of selected HR processes",
+        "Mapping of recruitment, onboarding or employee administration workflows",
+        "Recommended process improvements",
+        "Cleaning and structuring of an agreed employee dataset",
+        "Headcount and workforce composition analysis",
+        "Attrition and retention analysis",
+        "HR KPI dashboard",
+        "Standardised templates and checklists"
+      ]
+    },
+    {
+      "id": "financial-planning",
+      "icon": "trend",
+      "name": "Financial Planning & Forecasting",
+      "shortName": "Financial Planning",
+      "description": "See where your business stands financially and where it’s heading.",
+      "audience": "Founders and managers who need clearer budgets, forecasts and financial tracking.",
+      "deliverables": [
+        "Review of available P&L statements, balance sheets and cash flow information",
+        "Revenue, expense and profitability trend analysis",
+        "Financial ratios and working capital indicators",
+        "Revenue and expense budget template",
+        "Financial forecast based on agreed assumptions",
+        "Base, optimistic and downside scenarios"
+      ]
+    },
+    {
+      "id": "market-intelligence",
+      "icon": "compass",
+      "name": "Market & Competitor Intelligence",
+      "shortName": "Market Intelligence",
+      "description": "Know your market, your competitors and your next opportunity.",
+      "audience": "Businesses planning growth, a new launch or a sharper position against competitors.",
+      "deliverables": [
+        "Competitor benchmarking across agreed dimensions",
+        "Customer segment and value proposition assessment",
+        "Market opportunity assessment",
+        "Market Analysis tools",
+        "Customer feedback and review analysis",
+        "Analysis of leads, conversion rate, cost per lead and customer acquisition cost (where data permits)",
+        "Marketing KPI reporting and campaign performance summary",
+        "Performance variance analysis",
+        "Research report with findings, sources and recommendations"
+      ]
+    },
+    {
+      "id": "social-media-marketing",
+      "icon": "megaphone",
+      "name": "Social Media Marketing",
+      "shortName": "Social Media Marketing",
+      "description": "Bring strategy, content and performance insight to your social media marketing.",
+      "audience": "Businesses and founders looking to plan content, engage their audience and measure social media performance.",
+      "deliverableGroups": [
+        {
+          "name": "Social Media Strategy",
+          "items": ["Platform selection, target audience, positioning and content strategy"]
+        },
+        {
+          "name": "Content Creation",
+          "items": ["Posts, carousels, infographics and promotional creatives"]
+        },
+        {
+          "name": "Content Calendar",
+          "items": ["Monthly content plan and posting schedule"]
+        },
+        {
+          "name": "Community Management",
+          "items": ["Responding to comments, messages and enquiries"]
+        },
+        {
+          "name": "Social Media Advertising",
+          "items": ["Meta Ads campaign setup, management and optimisation"]
+        },
+        {
+          "name": "Lead Generation Campaigns",
+          "items": ["Campaigns designed to generate enquiries and potential customers"]
+        },
+        {
+          "name": "Social Media Analytics",
+          "items": ["Reach, engagement, follower growth, leads and performance reports"]
+        },
+        {
+          "name": "Competitor Social Media Audit",
+          "items": ["Benchmarking competitors' content and digital presence"]
+        },
+        {
+          "name": "Personal Branding",
+          "items": ["LinkedIn profile management and founder/executive content strategy"]
+        }
+      ]
+    },
+    {
+      "id": "ai-transformation-advisory",
+      "icon": "ai",
+      "name": "AI Transformation and Advisory",
+      "shortName": "AI Transformation",
+      "description": "Plan AI adoption, equip your team and put responsible AI use into practice.",
+      "audience": "Businesses exploring AI adoption, chatbots, employee training and AI governance.",
+      "deliverableGroups": [
+        {
+          "name": "AI Readiness Assessment",
+          "items": [
+            "AI readiness report",
+            "Current-state business assessment",
+            "AI opportunity matrix",
+            "Recommendations for AI adoption"
+          ]
+        },
+        {
+          "name": "AI Strategy & Roadmap",
+          "items": [
+            "AI adoption strategy",
+            "Prioritised AI use cases",
+            "Estimated implementation costs",
+            "Phased implementation roadmap"
+          ]
+        },
+        {
+          "name": "AI Chatbots & Virtual Assistants",
+          "items": [
+            "Website/WhatsApp chatbot",
+            "FAQ knowledge base",
+            "Customer query escalation workflow",
+            "Chatbot testing and performance report"
+          ]
+        },
+        {
+          "name": "AI Training & Employee Enablement",
+          "items": [
+            "Customised AI training sessions",
+            "Practical exercises and demonstrations",
+            "Department-specific prompt library",
+            "Training materials and assessment"
+          ]
+        },
+        {
+          "name": "AI Governance & Risk Assessment",
+          "items": [
+            "AI usage policy",
+            "Data-handling guidelines",
+            "AI risk assessment report",
+            "Human approval and review guidelines"
+          ]
+        }
+      ]
+    }
+  ],
+  "founders": [
+    { "name": "Rishit Katiyar", "initials": "RK", "specialisation": "Finance" },
+    { "name": "Harshita Jain", "initials": "HJ", "specialisation": "Finance" },
+    { "name": "Harendra Singh Bhadauria", "initials": "HSB", "specialisation": "Marketing" },
+    { "name": "Jayant Pal", "initials": "JP", "specialisation": "Operations" }
+  ],
+  "faqs": [
+    {
+      "question": "How do you use AI in your work?",
+      "answer": "AI helps us clean data, analyse it and research markets much faster. Every insight and recommendation is reviewed and shaped by our team before it reaches you."
+    },
+    {
+      "question": "Do you work with businesses outside India?",
+      "answer": "Yes. We work with businesses in India and internationally."
+    },
+    {
+      "question": "How is pricing decided?",
+      "answer": "Every business is different, so we prepare a quote based on the scope of your project. Email us with a few details and we’ll get back to you."
+    },
+    {
+      "question": "What do you need from us to get started?",
+      "answer": "A short conversation about your goals and access to the relevant data or documents for the service you choose."
+    },
+    {
+      "question": "Which service is right for my business?",
+      "answer": "If you’re not sure, email us and describe your challenge. We’ll suggest the package that fits best."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "trinetra-consulting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trinetra Consultancy — a lightweight static website for GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "playwright": "^1.64.1"
+  }
+}
